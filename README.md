@@ -1,16 +1,28 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media.tenor.com/jFkeMQKHfh0AAAAC/islamic-dance.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**OreonCZ/OreonCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align="center">Hello world 🌍
+My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>  
+  
 
-Here are some ideas to get you started:
+- 🖥️ I am currently working on how to program. 🖥️  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 I am currently learning Java and Javascript. 📖  
+  
+
+- 📺 I am also interested in: games, movies, rock/metal music, anime, food, and especially: <i>memes</i> 🍔  
+  
+
+- 🤑 Fun fact: NetBeans is the best program in the world lmao 🤑  
+  
+
+<br/>  
+
+<div align="center">  
+
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+
+</div>
