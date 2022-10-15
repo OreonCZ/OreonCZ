@@ -32,4 +32,15 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>
 <img src="https://i.kym-cdn.com/editorials/icons/original/000/004/844/wise_mystical_tree_lore.jpg" align="center" style="width: 100%" />
 </div>  
 
-<button href=""https://www.instagram.com/oreoncz/>Instagram</button>
+My social media:  
+<div align="center">
+<a href="https://twitter.com/OreonCZ" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/OreonCZ" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/OreonCZ" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
