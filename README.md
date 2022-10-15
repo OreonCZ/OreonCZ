@@ -3,14 +3,14 @@
 </div>  
   
 
-### <div align="center"><h2>🌍 Hello world 🌍</h2>
+<div align="center"><h2>🌍 Hello world 🌍</h2>
 My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>  
   
 
 - 🖥️ I am currently working on how to program. 🖥️  
   
 
-- 📖 I am currently learning Java and Javascript. 📖  
+- 📖 I am currently learning Java, Javascript, HTML and CSS. 📖  
   
 
 - 📺 I am also interested in: games, movies, rock/metal music, anime, food, and especially: <i>memes</i> 🍔  
