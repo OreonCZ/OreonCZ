@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">🌍 Hello world 🌍
+### <div align="center"><h1>🌍 Hello world 🌍</h1>
 My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>  
   
 
