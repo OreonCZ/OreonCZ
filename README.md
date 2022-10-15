@@ -43,5 +43,6 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>
 <a href="https://github.com/OreonCZ" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/OreonCZ#9281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OreonCZ#9281" height="30" width="40" /></a>
+<br>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OreonCZ#9281" height="30" width="40" /></a>
 </div>  
