@@ -24,5 +24,6 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>
 <div align="center">  
 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+https://aleen42.github.io/badges/src/reddit.svg
 
 </div>
