@@ -45,5 +45,8 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>
 </a>
 <br>
 <a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OreonCZ#9281" height="30" width="40" />OreonCZ#9281</a>
-</div>  
+</div>
+
+<div align="center">
 <h2><a href="https://youtu.be/xvFZjo5PgG0">📺 My favorite video 📺</a></h2>
+</div>
