@@ -29,7 +29,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>
 </div>
 
 <div align="center">
-<img src="https://i.kym-cdn.com/editorials/icons/original/000/004/844/wise_mystical_tree_lore.jpg" align="center" style="width: 100%" />
+<img src="https://i.kym-cdn.com/editorials/icons/original/000/004/844/wise_mystical_tree_lore.jpg" align="center" style="width: 80%" />
 </div>  
 
 <h2 align="center">🌍 My social media 🌍</h2>  
