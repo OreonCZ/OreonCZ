@@ -4,7 +4,7 @@
   
 
 <div align="center"><h2>🌍 Hello world 🌍</h2>
-My name is <b>Filip Kučera</b> and I am a <b>SPSMB</b> student.</div>  
+My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>  
   
 
 - 🖥️ I am currently working on how to program. 🖥️  
