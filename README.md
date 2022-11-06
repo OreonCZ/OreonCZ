@@ -50,3 +50,5 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 <div align="center">
 <a href="https://youtu.be/xvFZjo5PgG0">📺 My favorite video 📺</a>
 </div>
+<br>
+![OreonCZ's Stats](https://github-readme-stats.vercel.app/api?username=OreonCZ&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
