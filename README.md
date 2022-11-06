@@ -29,7 +29,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 </div>
 
 <div align="center"><a href="https://www.youtube.com/shorts/1WU_N66Gi0M">
-<img src="https://i.pinimg.com/originals/74/b3/bc/74b3bcdac019a347d01d0a225883887b.jpg" align="center" style="width: 80%"/>
+<img src="https://i.pinimg.com/originals/74/b3/bc/74b3bcdac019a347d01d0a225883887b.jpg" align="center" style="width: 80%" height:"50%"/>
 </a></div>  
 
 <h2 align="center">🌍 My social media 🌍</h2>  
