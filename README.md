@@ -51,3 +51,4 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 <a href="https://youtu.be/xvFZjo5PgG0">📺 My favorite video 📺</a>
 </div>
 
+https://github-readme-streak-stats.herokuapp.com/?user=OreonCZ&theme=material-palenight&hide_border=true
