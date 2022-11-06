@@ -30,8 +30,9 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 
 <div align="center"><a href="https://youtu.be/CbozHK38jDc">
 <img src="https://i1.sndcdn.com/artworks-0Pk4Jz5GTlKF93q2-yvmllA-t500x500.jpg" align="center" style="width: 80%"/>
-</a></div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OreonCZ&theme=radical&show_icons=true&hide_border=true&count_private=true" align="center" margin-top=10px /></div>  
+</a></div>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OreonCZ&theme=radical&show_icons=true&hide_border=true&count_private=true" align="center"/></div>  
 
 <h2 align="center">🌍 My social media 🌍</h2>  
 <div align="center">
