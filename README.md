@@ -52,6 +52,6 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 </div>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OreonCZ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=OreonCZ&theme=material-palenight&show_icons=true&hide_border=true&count_private=true" align="center" /></div>  
 
 <br/>  
