@@ -16,7 +16,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 - 📺 I am also interested in: games, movies, rock/metal music, anime, food, and especially: <i>memes</i> 🍔  
   
 
-- 🤑 Fun fact: NetBeans is the best program in the world lmao 🤑  
+- 🤑 Fun fact: NetBeans is the best program in the world lmao sus 🤑  
   
 
 <br/>  
