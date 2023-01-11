@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Feditorials%2Fguides%2Fwho-is-rap-battle-mrbeast-the-fake-mrbeast-meme-explained&psig=AOvVaw3d44Znmql2Hl7mZDcoVZgJ&ust=1673511445117000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMClpcCKv_wCFQAAAAAdAAAAABAD" align="center" style="width: 100%" />
+<img src="https://i.kym-cdn.com/photos/images/newsfeed/002/491/279/26f.gif" align="center" style="width: 100%" />
 </div>  
   
 
