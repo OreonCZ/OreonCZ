@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://64.media.tumblr.com/b9f4556ff6160d599ccf99ff241c57f7/d60dda680921e8ed-23/s2048x3072_c0,0,99600,99644/563b8c36b94c8773c3b266a53ef8629f7db8fc1f.gif" align="center" style="width: 100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Feditorials%2Fguides%2Fwho-is-rap-battle-mrbeast-the-fake-mrbeast-meme-explained&psig=AOvVaw3d44Znmql2Hl7mZDcoVZgJ&ust=1673511445117000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMClpcCKv_wCFQAAAAAdAAAAABAD" align="center" style="width: 100%" />
 </div>  
   
 
