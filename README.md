@@ -56,7 +56,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 </div>
 <br>
 <div align="center">
-<a href="https://youtu.be/xvFZjo5PgG0">📺 My favorite video 📺</a>
+<a href="https://youtu.be/UN-NgihqbLM?si=AKBTxJ44hvexmsO6">📺 My favorite video 📺</a>
 </div>
 
 
