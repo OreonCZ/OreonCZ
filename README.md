@@ -10,13 +10,13 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 - 🖥️ I am currently working on how to program 🖥️  
   
 
-- 📖 I am currently learning Java, Javascript, HTML and CSS 📖  
+- 📖 I am currently learning MERN, Javascript, HTML and CSS 📖  
   
 
-- 📺 I am also interested in: games, movies, rock/metal music, anime, food, and especially: <i>memes</i> 🍔  
+- 📺 I am also interested in: games, movies, metal music, anime, food, and especially: <i>memes</i> 🍔  
   
 
-- 🤑 Fun fact: NetBeans is the best program in the world lmao sus 🤑  
+- 🤑 If you put popcorn into a microwave for 5min, It's going to taste like coal 🤑
   
 
 <br/>  
