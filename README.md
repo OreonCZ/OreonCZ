@@ -3,11 +3,9 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 
 <br>
 <div align="center">
-🖥️ I love programming :) 🖥️  
-<br>
-🤔 Still seeking the answer to: <i>Who asked?</i> 🤔
-<br>
-📖 I am currently learning things below 📖
+<p>🖥️ I love programming :) 🖥️  
+<p>🤔 Still seeking the answer to: <i>Who asked?</i> 🤔
+<p>📖 I am currently learning things below 📖
 </div>
 
 <div align="center">
