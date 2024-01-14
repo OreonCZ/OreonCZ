@@ -28,6 +28,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 <img src="https://cdn.discordapp.com/attachments/987268694344339467/1064623112441843824/77okiz.gif" align="center" style="width: 200%"/>
 </a></div>
 <br>
+<a href="https://imgflip.com/i/8cb3zi"><img src="https://i.imgflip.com/8cb3zi.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
 
 <h2 align="center">🌍 My social media 🌍</h2>  
 <div align="center">
