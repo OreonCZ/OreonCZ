@@ -1,12 +1,13 @@
 <div align="center"><h2>🌍 Hello world 🌍</h2>
 My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>  
 
+<br>
 <div align="center">
-- 🖥️ I love programming :) 🖥️  
+🖥️ I love programming :) 🖥️  
 
-- 🤔 Still seeking the answer to: <i>Who asked?</i> 🤔
+🤔 Still seeking the answer to: <i>Who asked?</i> 🤔
   
-- 📖 I am currently learning things below 📖
+📖 I am currently learning things below 📖
 </div>
 
 <div align="center">
