@@ -22,7 +22,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 <img src="https://media.tenor.com/206moG7POMAAAAAi/morshu-link-the-faces-of-evil.gif" align="left" style="width: 200%"/>
 <img src="https://cdn.discordapp.com/emojis/1187495760913256521.gif?size=48&name=AIMdance&quality=lossless" align="center" style="width: 40"/>
 <br>
-<a><img src="https://i.imgflip.com/8cb3zi.jpg" title="made at imgflip.com"/></a>
+<div align="center"><img src="https://i.imgflip.com/8cb3zi.jpg" title="made at imgflip.com"/></div>
 
 <h2 align="center">🌍 My social media 🌍</h2>  
 <div align="center">
