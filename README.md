@@ -7,7 +7,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
   
 - 📖 I am currently learning things below 📖  
 
-<div align="center">
+<div align="right">
 <img src="https://cdn.discordapp.com/attachments/1064224495444959275/1196097183460622336/image-removebg-preview.png?ex=65b6634e&is=65a3ee4e&hm=5834d2ff66bdce3fce477eab0c6590755930c33dde866d3abe902db5280039c4&" align="center" style="width: 40"/>
 </div>
 
