@@ -1,4 +1,4 @@
-<div align="center"><h2>🌍 Hello world 🌍</h2>
+<div align="center"><h1>Hi 🖐🙂</h1>
 My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>  
 
 <br>
