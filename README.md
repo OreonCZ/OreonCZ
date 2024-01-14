@@ -18,7 +18,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 
 
 </div>
-<img src="https://media.discordapp.net/attachments/987268694344339467/1050492447165272144/bin.gif?ex=65b2b4d4&is=65a03fd4&hm=20dc28fbc087f7358670c8eebea488dc426a675b7d80cb87b0884192780fedf2&" align="right" style="width: 300%"/>
+<img src="https://media.discordapp.net/attachments/987268694344339467/1050492447165272144/bin.gif?ex=65b2b4d4&is=65a03fd4&hm=20dc28fbc087f7358670c8eebea488dc426a675b7d80cb87b0884192780fedf2&" align="right" style="width: 700%"/>
 <img src="https://media.tenor.com/206moG7POMAAAAAi/morshu-link-the-faces-of-evil.gif" align="left" style="width: 200%"/>
 <br>
 <a href="https://imgflip.com/i/8cb3zi"><img src="https://i.imgflip.com/8cb3zi.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
