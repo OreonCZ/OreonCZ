@@ -1,4 +1,4 @@
-<div align="center"><img src="https://cdn.discordapp.com/emojis/1187495760913256521.gif?size=48&name=AIMdance&quality=lossless" align="right" style="width: 40"/><h2>🌍 Hello world 🌍</h2>
+<div align="center"><h2>🌍 Hello world 🌍</h2>
 My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>  
 
 <br>
