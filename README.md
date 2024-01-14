@@ -25,7 +25,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 </div>
 
 <div align="center"><a href="https://youtu.be/CbozHK38jDc">
-<img src="https://cdn.discordapp.com/attachments/987268694344339467/1064623112441843824/77okiz.gif" align="center" style="width: 200%"/>
+<img src="https://media.tenor.com/206moG7POMAAAAAi/morshu-link-the-faces-of-evil.gif" align="center" style="width: 200%"/>
 </a></div>
 <br>
 <a href="https://imgflip.com/i/8cb3zi"><img src="https://i.imgflip.com/8cb3zi.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
