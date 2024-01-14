@@ -4,7 +4,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 
 - 🖥️ I love programming :) 🖥️  
 
-- Still seeking the answer to: <i>Who asked?</i>
+- 🤔 Still seeking the answer to: <i>Who asked?</i> 🤔
   
 - 📖 I am currently learning things below 📖  
 
