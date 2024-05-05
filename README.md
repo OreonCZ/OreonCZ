@@ -8,6 +8,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 <p>📖 I am currently learning things below 📖
 </div>
 
+<br>
 <div align="center">
 <div><img src="https://cdn.discordapp.com/emojis/1187495760913256521.gif?size=48&name=AIMdance&quality=lossless" align="right" style="width: 40"/></div>
 <div><img src="https://cdn.discordapp.com/emojis/1187495760913256521.gif?size=48&name=AIMdance&quality=lossless" align="left" style="width: 40"/></div>
