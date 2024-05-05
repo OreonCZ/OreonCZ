@@ -9,7 +9,7 @@ My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>
 </div>
 
 <div align="center">
-<iframe frameborder="0" src="https://itch.io/embed/2635604?border_width=5&amp;bg_color=1b0202&amp;fg_color=eeeeee&amp;link_color=2a6400&amp;border_color=000000" width="560" height="175"><a href="https://oreoncz.itch.io/catfighter">Catfighter by OreonCZ</a></iframe>
+<div frameborder="0" src="https://itch.io/embed/2635604?border_width=5&amp;bg_color=1b0202&amp;fg_color=eeeeee&amp;link_color=2a6400&amp;border_color=000000" width="560" height="175"><a href="https://oreoncz.itch.io/catfighter">Catfighter by OreonCZ</a></div>
 <div><img src="https://cdn.discordapp.com/emojis/1187495760913256521.gif?size=48&name=AIMdance&quality=lossless" align="right" style="width: 40"/></div>
 <div><img src="https://cdn.discordapp.com/emojis/1187495760913256521.gif?size=48&name=AIMdance&quality=lossless" align="left" style="width: 40"/></div>
 
