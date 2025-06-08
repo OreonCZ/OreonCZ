@@ -1,9 +1,9 @@
 <div align="center"><h1>Hi 🖐🙂</h1>
-My name is <b>Filip Kučera</b> and I am a <b>SPSMB MB</b> student.</div>  
+My name is <b>Filip Kučera</b> and I am <b>CS</b> student.</div>  
 
 <br>
 <div align="center">
-<p>🖥️ I love programming :) 🖥️  
+<p>🖥️ I love programming and fun projects :) 🖥️  
 <p>🤔 Still seeking the answer to: <i>Who asked?</i> 🤔
 <p>📖 I am currently learning things below 📖
 </div>
