@@ -42,7 +42,6 @@ My name is <b>Filip Kučera</b> and I am <b>CS</b> student.</div>
 </div>
 <br>
 <div align="center">
-<a href="https://youtu.be/RY1aQdOehko?si=MbYp6xRUuXwv4tHO">📺 xd 📺</a>
 </div>
 
 
