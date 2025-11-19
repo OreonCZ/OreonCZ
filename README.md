@@ -6,7 +6,7 @@ My name is <b>Filip Kučera</b> and I am <b>CS</b> student.</div>
 <p>🖥️ I love programming and fun projects :) 🖥️  
 <p>🤔 Still seeking the answer to: <i>Who asked?</i> 🤔
 <p>📖 I am currently learning things below 📖
-<a href="https://store.steampowered.com/app/3664280/Catfighter_In_the_Lands_of_Sinners/">Have you ever heard about my videogame <b>Catfighter?</b></a>
+<p>Have you ever heard about my videogame <a href="https://store.steampowered.com/app/3664280/Catfighter_In_the_Lands_of_Sinners/"><b color="white">Catfighter?</b></a>
 </div>
 
 <br>
