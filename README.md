@@ -25,7 +25,7 @@ My name is <b>Filip Kučera</b> and I am <b>CS</b> student.</div>
 <img src="https://media.tenor.com/206moG7POMAAAAAi/morshu-link-the-faces-of-evil.gif" align="left" style="width: 200%"/>
 <br>
 
-<h2 align="center">🌍 My social media 🌍</h2>  
+<p align="center">🌍 <b>My social media</b> 🌍</>  
 <div align="center">
 <a href="https://twitter.com/OreonCZ" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
