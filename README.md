@@ -28,9 +28,6 @@ My name is <b>Filip Kučera</b> and I am <b>CS</b> student.</div>
 
 <p align="center">🌍 <b>My social media</b> 🌍</>  
 <div align="center">
-<a href="https://twitter.com/OreonCZ" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://instagram.com/OreonCZ" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
