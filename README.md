@@ -1,5 +1,5 @@
 <div align="center"><h1>Hi 🖐🙂</h1>
-My name is <b>Filip Kučera</b> and I am <b>CS</b> student.</div>  
+My name is <b>Filip Kučera (OreonCZ)</b> and I am <b>CS</b> student.</div>  
 
 <br>
 <div align="center">
